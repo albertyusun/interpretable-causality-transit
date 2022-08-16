@@ -1,4 +1,4 @@
-# Description
+# Making the World More Equal, One Ride at a Time: Studying Public Transportation Initiatives Using Interpretable Causal Inference
 
 This folder contains code for Duke Data Science Team's entry for [Stanford CISIL Causal Inference Challenge](https://casbs.stanford.edu/causal-inference-social-impact-lab-s-data-challenge).
 
